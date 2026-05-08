@@ -47,6 +47,7 @@ app.get("/", (req, res) => {
         <div class="card">
           <h1>Servidor Express desplegado en AWS</h1>
           <p>Despliegue continuo con AWS CodePipeline y Elastic Beanstalk.</p>
+          <p>El artesano </p>
           <div class="badge">Versión 1.0</div>
         </div>
       </body>
